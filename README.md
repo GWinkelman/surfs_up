@@ -40,4 +40,4 @@ December Precipitation
 
 ![dec_prec](/dec_prec.png)
 
-As seen in the images above, there isn't much variability in the precipitation statistics between June and December. This even further supports opening the shop since the weather should stay relatively consistent and ideal for surfing and enjoying ice cream outside in the heat. Some other analyses that can be run if wanted would be comparing more than just June and December, and looking at other climate factors in Oahu, HI.  
+As seen in the images above, there isn't much variability in the precipitation statistics between June and December. December seems to have a higher maximum of precipitation, but there still seems to be days without rain and warm temperatures. This even further supports opening the shop since the weather should stay relatively consistent and ideal for surfing and enjoying ice cream outside in the heat. Some other analyses that can be run if wanted would be comparing more than just June and December, and looking at other climate factors in Oahu, HI.  
